@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...cs
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...ython projects
-- 📫 How to reach me ...write me ms2325558@gmail.com or whatsapp +91 7674901203
+- 📫 How to reach me ...write me MohammedSiddiq1235@gmail.com
 
 <!---
 cssid/cssid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
