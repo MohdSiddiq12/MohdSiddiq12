@@ -2,7 +2,7 @@
 <h3 align="center">I am Passiaonate Learner</h3>
 
 # 💫 About Me:
-<br><br><br>I am learning Tensorflow<br>Ask me about AI&ML,DS,Web<br>Fun fact I am funny<br>
+<br><br>Ask me about AI&ML,DS,Web<br>Fun fact I am funny<br>
 
 
 ## 🌐 Socials:
