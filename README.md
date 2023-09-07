@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 # 💫 About Me:
-<br><br>Ask me about AI&ML,DS,Web<br>Fun fact I am funny<br>
+<br><br>Ask me about AI&ML,DS,Web
 
 
 ## 🌐 Socials:
