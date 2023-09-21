@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Siddiq</h1>
 <h3 align="center"></h3>
 
-# About Me:
+
 <br><br>Ask me about AI&ML,DS,Web
 
 
