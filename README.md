@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 
-<br><br>Ask me about AI&ML,DS,Web
+<br><br>
 
 
 ## 🌐 Socials:
