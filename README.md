@@ -2,13 +2,11 @@
 <h3 align="center"></h3>
 
 
-<br><br>
-    
-    <h2 align="center">📄 Resume</h2>
+ <h2 align="center">📄 Resume</h2>
     
     <p align="center">
         <a href="https://drive.google.com/file/d/11LrPNCZN11iIi8xUEbOwXU9Mz5T2sABF/view?usp=sharing" target="_blank">
-            <img src="Your-Image-Source-URL" alt="Resume">
+            View My Resume
         </a>
     </p>
 
