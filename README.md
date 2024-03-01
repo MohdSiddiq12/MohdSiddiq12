@@ -3,8 +3,14 @@
 
 
 <br><br>
-## 📄 Resume
-[![Resume](https://drive.google.com/file/d/11LrPNCZN11iIi8xUEbOwXU9Mz5T2sABF/view?usp=sharing)
+    
+    <h2 align="center">📄 Resume</h2>
+    
+    <p align="center">
+        <a href="https://drive.google.com/file/d/11LrPNCZN11iIi8xUEbOwXU9Mz5T2sABF/view?usp=sharing" target="_blank">
+            <img src="Your-Image-Source-URL" alt="Resume">
+        </a>
+    </p>
 
 
 
