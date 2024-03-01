@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Siddiq</h1>
 <h3 align="center"></h3>
-## My Resume
+
 
 ### 📄 My Resume
-[Download Resume](paste_your_raw_resume_link_here)
+[Download Resume](https://github.com/MohdSiddiq12/MohdSiddiq12/blob/main/Resume.pdf)
 
 
 ## 🌐 Socials:
