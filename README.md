@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Siddiq</h1>
 <h3 align="center"></h3>
+## My Resume
 
-
- <!--<h2 align="center">📄 Resume</h2>-->
-    
-    <p align="center">
-        <a href="https://drive.google.com/file/d/11LrPNCZN11iIi8xUEbOwXU9Mz5T2sABF/view?usp=sharing" target="_blank">
-            View My Resume
-        </a>
-    </p>
-
+### 📄 My Resume
+[Download Resume](paste_your_raw_resume_link_here)
 
 
 ## 🌐 Socials:
