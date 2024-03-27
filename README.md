@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Siddiq</h1>
-<h3 align="center"></h3>
+<h2 align="center"></h2> 
 
 
 ### 📄 My Resume
