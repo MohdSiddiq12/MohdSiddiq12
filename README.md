@@ -3,7 +3,7 @@
 
 
 ### 📄 My Resume
-[Download Resume](https://github.com/MohdSiddiq12/MohdSiddiq12/blob/main/Resume.pdf)
+[Download Resume][Resume.pdf](https://github.com/user-attachments/files/16349312/Resume.pdf)
 
 
 ## 🌐 Socials:
