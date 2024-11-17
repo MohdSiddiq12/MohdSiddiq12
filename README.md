@@ -2,8 +2,6 @@
 <h2 align="center"></h2> 
 
 
-### 📄 My Resume
-[Download Resume][Resume.pdf](https://github.com/user-attachments/files/16349312/Resume.pdf)
 
 
 ## 🌐 Socials:
